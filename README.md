@@ -1,4 +1,4 @@
-# GitHub練習用
+# GitHub練習用で-す
 
 これはGitHubの練習用リポジトリです。
 
